@@ -1,0 +1,7 @@
+{
+  "graph_file_name" : "output_graph.pb",
+  "labels_file_name" : "output_labels.txt",
+  "model_base_path": "/home/global/PycharmProjects/untitled/src",
+  "training_img_dir" : "/home/global/PycharmProjects/untitled/data/TrainingData"
+
+}
